@@ -77,6 +77,9 @@
     <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="Person.cs" />
+    <Compile Include="PersonDataSource.cs" />
+    <Compile Include="PersonTableDelegate.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Main.storyboard" />
